@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://mostbetlogin.cz/contacts/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/app/</loc>
+    <loc>https://mostbetlogin.cz/app/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/o-nas/</loc>
+    <loc>https://mostbetlogin.cz/o-nas/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zasady-ochrany-osobnich-udaju/</loc>
+    <loc>https://mostbetlogin.cz/zasady-ochrany-osobnich-udaju/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/odpovedne-hrani/</loc>
+    <loc>https://mostbetlogin.cz/odpovedne-hrani/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zasady-pouzivani-souboru-cookie/</loc>
+    <loc>https://mostbetlogin.cz/zasady-pouzivani-souboru-cookie/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bonus/</loc>
+    <loc>https://mostbetlogin.cz/bonus/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/obchodni-podminky/</loc>
+    <loc>https://mostbetlogin.cz/obchodni-podminky/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mostbetlogin.cz/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mostbetlogin.cz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mostbetlogin.cz/tags/</loc>
   </url>
 </urlset>
